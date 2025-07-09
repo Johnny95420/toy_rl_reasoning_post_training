@@ -370,7 +370,7 @@ However, a horizontal comparison between different models still reveals that eve
       <figure>
         <figcaption>(1) Prealgebra Pass@K Rate</figcaption>
         <img 
-          src="/workspace/imgs/combined_math500_ability_Prealgebra.png" 
+          src="imgs/combined_math500_ability_Prealgebra.png" 
           alt="圖片1"
           width="700">
       </figure>
